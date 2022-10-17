@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RiegoEv</string>
+    <string name="regar">Regar</string>
+    <string name="stats">Estadicticas</string>
+    <string name="programar">Programar</string>
+    <string name="historial">Historial</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="frag_riego">Regando</string>
+    <string name="frag_stats">Estadisticas</string>
+    <string name="frag_programar">Programar</string>
+    <string name="frag_Historial">Historial</string>
+    <string name="estado">Estado: SECO/HUMEDO</string>
+    <string name="humedad">HUMEDAD:</string>
+    <string name="temperatura">TEMPERATURA:</string>
+    <string name="phumedad">50%</string>
+    <string name="ptemperatura">21°C</string>
+    <string name="funcion">Iniciar riego</string>
+    <string name="estadisctica">Informacion de Riegos</string>
+    <string name="title_programados">Riegos Programados</string>
+    <string name="r1_programados">Riegos Programados ||para los dias: LU,MI,JU,SA</string>
+    <string name="r2_programados">Riegos Programados ||para los dias: LU,MI,SA</string>
+    <string name="agregar">Agregar</string>
+    <string name="programado1">programado1</string>
+    <string name="programado2">programado2</string>
+    <string name="programado3">programado3</string>
+    <string name="historialr">Historial de regados</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="cancelar">CANCELAR</string>
+
+
+    <string name="historia1">RIEGO PROGRAMADO DIA:16-10-2022|HORA:5:15</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
